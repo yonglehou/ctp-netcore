@@ -1,0 +1,44 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/charles/ctp/ctpnetcore/ctpnetcore/ctpnetcore.csproj",
+    "projectName": "ctpnetcore",
+    "projectPath": "/Users/charles/ctp/ctpnetcore/ctpnetcore/ctpnetcore.csproj",
+    "outputPath": "/Users/charles/ctp/ctpnetcore/ctpnetcore/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netstandard1.4"
+    ],
+    "frameworks": {
+      "netstandard1.4": {
+        "projectReferences": {}
+      }
+    }
+  },
+  "frameworks": {
+    "netstandard1.4": {
+      "dependencies": {
+        "NETStandard.Library": {
+          "target": "Package",
+          "version": "2.0.0-preview2-25401-01"
+        },
+        "System.ComponentModel": {
+          "target": "Package",
+          "version": "4.3.0"
+        },
+        "System.ComponentModel.Primitives": {
+          "target": "Package",
+          "version": "4.3.0"
+        },
+        "System.Runtime": {
+          "target": "Package",
+          "version": "4.3.0"
+        },
+        "System.Runtime.Extensions": {
+          "target": "Package",
+          "version": "4.3.0"
+        }
+      }
+    }
+  }
+}

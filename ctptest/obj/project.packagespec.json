@@ -1,0 +1,32 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/charles/ctp/ctpnetcore/ctptest/ctptest.csproj",
+    "projectName": "ctptest",
+    "projectPath": "/Users/charles/ctp/ctpnetcore/ctptest/ctptest.csproj",
+    "outputPath": "/Users/charles/ctp/ctpnetcore/ctptest/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp1.1"
+    ],
+    "frameworks": {
+      "netcoreapp1.1": {
+        "projectReferences": {
+          "/Users/charles/ctp/ctpnetcore/ctpnetcore/ctpnetcore.csproj": {
+            "projectPath": "/Users/charles/ctp/ctpnetcore/ctpnetcore/ctpnetcore.csproj"
+          }
+        }
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp1.1": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "2.0.0-preview2-25407-01"
+        }
+      }
+    }
+  }
+}
