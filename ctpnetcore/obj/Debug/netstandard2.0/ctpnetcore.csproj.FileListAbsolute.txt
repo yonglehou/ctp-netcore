@@ -6,5 +6,8 @@
 /Users/charles/ctp/ctpnetcore/ctpnetcore/obj/Debug/netstandard2.0/ctpnetcore.dll
 /Users/charles/ctp/ctpnetcore/ctpnetcore/obj/Debug/netstandard2.0/ctpnetcore.pdb
 /Users/charles/ctp/ctpnetcore/ctpnetcore/bin/Debug/netstandard2.0/ctp_dll/ctp_quote.dll
-/Users/charles/ctp/ctpnetcore/ctpnetcore/bin/Debug/netstandard2.0/obj/Debug/netstandard2.0/ctpnetcore.pdb
 /Users/charles/ctp/ctpnetcore/ctpnetcore/obj/Debug/netstandard2.0/ctpnetcore.csprojResolveAssemblyReference.cache
+/Users/charles/ctp/ctpnetcore/ctpnetcore/bin/Debug/netstandard2.0/ctp_dll/ctp_trade.dll
+/Users/charles/ctp/ctpnetcore/ctpnetcore/bin/Debug/netstandard2.0/ctp_dll/thostmduserapi.dll
+/Users/charles/ctp/ctpnetcore/ctpnetcore/bin/Debug/netstandard2.0/ctp_dll/thosttraderapi.dll
+/Users/charles/ctp/ctpnetcore/ctpnetcore/bin/Debug/netstandard2.0/ctpnetcore.pdb

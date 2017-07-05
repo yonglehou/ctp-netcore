@@ -10,3 +10,7 @@
 /Users/charles/ctp/ctpnetcore/ctptest/obj/Debug/netcoreapp2.0/ctptest.pdb
 /Users/charles/ctp/ctpnetcore/ctptest/bin/Debug/netcoreapp2.0/ctptest.pdb
 /Users/charles/ctp/ctpnetcore/ctptest/bin/Debug/netcoreapp2.0/ctp_dll/ctp_quote.dll
+/Users/charles/ctp/ctpnetcore/ctptest/bin/Debug/netcoreapp2.0/ctp_dll/ctp_trade.dll
+/Users/charles/ctp/ctpnetcore/ctptest/bin/Debug/netcoreapp2.0/ctp_dll/thostmduserapi.dll
+/Users/charles/ctp/ctpnetcore/ctptest/bin/Debug/netcoreapp2.0/ctp_dll/thosttraderapi.dll
+/Users/charles/ctp/ctpnetcore/ctptest/bin/Debug/netcoreapp2.0/ctpnetcore.pdb

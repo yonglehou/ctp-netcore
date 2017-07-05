@@ -24,12 +24,15 @@
       <LogicalName>ctp_quote</LogicalName>
     </EmbeddedResource>
     <EmbeddedResource Include="ctp_dll\ctp_trade.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>    
       <LogicalName>ctp_trade</LogicalName>
     </EmbeddedResource>
     <EmbeddedResource Include="ctp_dll\thostmduserapi.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>    
       <LogicalName>thostmduserapi</LogicalName>
     </EmbeddedResource>
     <EmbeddedResource Include="ctp_dll\thosttraderapi.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>    
       <LogicalName>thosttraderapi</LogicalName>
     </EmbeddedResource>
   </ItemGroup>
