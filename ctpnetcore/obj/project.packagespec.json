@@ -7,20 +7,28 @@
     "outputPath": "/Users/charles/ctp/ctpnetcore/ctpnetcore/obj/",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
-      "netstandard1.4"
+      "netstandard2.0"
     ],
     "frameworks": {
-      "netstandard1.4": {
+      "netstandard2.0": {
         "projectReferences": {}
       }
     }
   },
   "frameworks": {
-    "netstandard1.4": {
+    "netstandard2.0": {
       "dependencies": {
         "NETStandard.Library": {
           "target": "Package",
           "version": "2.0.0-preview2-25401-01"
+        },
+        "System.Collections": {
+          "target": "Package",
+          "version": "4.3.0"
+        },
+        "System.Collections.NonGeneric": {
+          "target": "Package",
+          "version": "4.3.0"
         },
         "System.ComponentModel": {
           "target": "Package",
@@ -30,11 +38,27 @@
           "target": "Package",
           "version": "4.3.0"
         },
+        "System.Reflection": {
+          "target": "Package",
+          "version": "4.3.0"
+        },
+        "System.Reflection.Extensions": {
+          "target": "Package",
+          "version": "4.3.0"
+        },
+        "System.Resources.ResourceManager": {
+          "target": "Package",
+          "version": "4.3.0"
+        },
         "System.Runtime": {
           "target": "Package",
           "version": "4.3.0"
         },
-        "System.Runtime.Extensions": {
+        "System.Runtime.Serialization.Formatters": {
+          "target": "Package",
+          "version": "4.3.0"
+        },
+        "System.Threading.Thread": {
           "target": "Package",
           "version": "4.3.0"
         }

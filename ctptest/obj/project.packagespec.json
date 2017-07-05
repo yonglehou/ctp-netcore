@@ -7,10 +7,10 @@
     "outputPath": "/Users/charles/ctp/ctpnetcore/ctptest/obj/",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
-      "netcoreapp1.1"
+      "netcoreapp2.0"
     ],
     "frameworks": {
-      "netcoreapp1.1": {
+      "netcoreapp2.0": {
         "projectReferences": {
           "/Users/charles/ctp/ctpnetcore/ctpnetcore/ctpnetcore.csproj": {
             "projectPath": "/Users/charles/ctp/ctpnetcore/ctpnetcore/ctpnetcore.csproj"
@@ -20,7 +20,7 @@
     }
   },
   "frameworks": {
-    "netcoreapp1.1": {
+    "netcoreapp2.0": {
       "dependencies": {
         "Microsoft.NETCore.App": {
           "target": "Package",

@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba4a5e31-27ae-4916-a8dc-1b7f85bf9eeb" name="Default" comment="" />
+    <list default="true" id="ba4a5e31-27ae-4916-a8dc-1b7f85bf9eeb" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.ctpnetcore/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ctptest/ctptest.userprefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.ctpnetcore/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.ctpnetcore/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ctpnetcore/CTPQuote.cs" afterPath="$PROJECT_DIR$/ctpnetcore/CTPQuote.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ctpnetcore/EnumDescriptionAttribute.cs" afterPath="$PROJECT_DIR$/ctpnetcore/EnumDescriptionAttribute.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ctpnetcore/ctpnetcore.csproj" afterPath="$PROJECT_DIR$/ctpnetcore/ctpnetcore.csproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ctpnetcore/obj/ctpnetcore.csproj.nuget.g.targets" afterPath="$PROJECT_DIR$/ctpnetcore/obj/ctpnetcore.csproj.nuget.g.targets" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ctpnetcore/obj/project.assets.json" afterPath="$PROJECT_DIR$/ctpnetcore/obj/project.assets.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ctpnetcore/obj/project.packagespec.json" afterPath="$PROJECT_DIR$/ctpnetcore/obj/project.packagespec.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ctptest/ctptest.csproj" afterPath="$PROJECT_DIR$/ctptest/ctptest.csproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ctptest/obj/ctptest.csproj.nuget.g.props" afterPath="$PROJECT_DIR$/ctptest/obj/ctptest.csproj.nuget.g.props" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ctptest/obj/ctptest.csproj.nuget.g.targets" afterPath="$PROJECT_DIR$/ctptest/obj/ctptest.csproj.nuget.g.targets" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ctptest/obj/project.assets.json" afterPath="$PROJECT_DIR$/ctptest/obj/project.assets.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ctptest/obj/project.packagespec.json" afterPath="$PROJECT_DIR$/ctptest/obj/project.packagespec.json" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,61 +26,24 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="ctp_quote.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ctpnetcore/ctp_quote.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-              <folding>
-                <marker date="1499075971000" expanded="true" signature="8:92" ph="..." />
-                <marker date="1499075971000" expanded="true" signature="107:10675" ph="{...}" />
-                <marker date="1499075971000" expanded="true" signature="133:10673" ph="{...}" />
-                <marker date="1499075971000" expanded="true" signature="139:1793" ph="Dll Load /UnLoad" />
-                <marker date="1499075971000" expanded="true" signature="166:333" ph="/// 原型是 :HMODULE LoadLibrary(LPCTSTR lpFileName); ... " />
-                <marker date="1499075971000" expanded="true" signature="430:669" ph="/// 原型是 : FARPROC GetProcAddress(HMODULE hModule, LPCWSTR lpProcName); ... " />
-                <marker date="1499075971000" expanded="true" signature="785:953" ph="/// 原型是 : BOOL FreeLibrary(HMODULE hModule); ... " />
-                <marker date="1499075971000" expanded="true" signature="1090:1308" ph="/// ... " />
-                <marker date="1499075971000" expanded="true" signature="1385:1780" ph="{...}" />
-                <marker date="1499075971000" expanded="true" signature="1445:1519" ph="{...}" />
-                <marker date="1499075971000" expanded="true" signature="1639:1715" ph="{...}" />
-                <marker date="1499075971000" expanded="true" signature="1987:2645" ph="{...}" />
-                <marker date="1499075971000" expanded="true" signature="2221:2327" ph="{...}" />
-                <marker date="1499075971000" expanded="true" signature="2650:3765" ph="声明REQ函数类型" />
-                <marker date="1499075971000" expanded="true" signature="3768:7333" ph="REQ函数" />
-                <marker date="1499075971000" expanded="true" signature="3839:4029" ph="{...}" />
-                <marker date="1499075971000" expanded="true" signature="4053:4134" ph="{...}" />
-                <marker date="1499075971000" expanded="true" signature="4158:4239" ph="{...}" />
-                <marker date="1499075971000" expanded="true" signature="4272:4380" ph="{...}" />
-                <marker date="1499075971000" expanded="true" signature="4435:4560" ph="{...}" />
-                <marker date="1499075971000" expanded="true" signature="4617:4754" ph="{...}" />
-                <marker date="1499075971000" expanded="true" signature="4915:5206" ph="{...}" />
-                <marker date="1499075971000" expanded="true" signature="4994:5073" ph="{...}" />
-                <marker date="1499075971000" expanded="true" signature="5276:5424" ph="{...}" />
-                <marker date="1499075971000" expanded="true" signature="5496:5650" ph="{...}" />
-                <marker date="1499075971000" expanded="true" signature="5721:5872" ph="{...}" />
-                <marker date="1499075971000" expanded="true" signature="5945:6102" ph="{...}" />
-                <marker date="1499075971000" expanded="true" signature="6416:6988" ph="{...}" />
-                <marker date="1499075971000" expanded="true" signature="6495:6860" ph="{...}" />
-                <marker date="1499075971000" expanded="true" signature="7061:7319" ph="{...}" />
-                <marker date="1499075971000" expanded="true" signature="7136:7188" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>namespace HaiFeng</find>
       <find>CTPQuote</find>
       <find>loadlibrary</find>
+      <find>HaiFeng</find>
+      <find>getobject</find>
+      <find>haifeng</find>
     </findStrings>
     <replaceStrings>
       <replace />
       <replace>namespace CTP</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -74,8 +52,11 @@
         <option value="$PROJECT_DIR$/ctptest/Program.cs" />
         <option value="$PROJECT_DIR$/ctpnetcore/BindableBase.cs" />
         <option value="$PROJECT_DIR$/ctpnetcore/TradingAccount.cs" />
-        <option value="$PROJECT_DIR$/ctpnetcore/CTPTrade.cs" />
         <option value="$PROJECT_DIR$/ctpnetcore/ctp_quote.cs" />
+        <option value="$PROJECT_DIR$/ctpnetcore/CTPTrade.cs" />
+        <option value="$PROJECT_DIR$/ctpnetcore/CTPQuote.cs" />
+        <option value="$PROJECT_DIR$/ctpnetcore/EnumDescriptionAttribute.cs" />
+        <option value="$PROJECT_DIR$/ctpnetcore/Properties/Resources.Designer.cs" />
       </list>
     </option>
   </component>
@@ -86,10 +67,11 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+    <option name="y" value="26" />
     <option name="width" value="1280" />
     <option name="height" value="712" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <flattenPackages />
@@ -105,6 +87,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <PATH>
@@ -121,7 +104,6 @@
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -227,12 +209,13 @@
       <option name="presentableId" value="Default" />
       <updated>1499074384671</updated>
       <workItem from="1499074385938" duration="1819000" />
-      <workItem from="1499142804851" duration="2061000" />
+      <workItem from="1499142804851" duration="2958000" />
+      <workItem from="1499238792812" duration="3312000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3880000" />
+    <option name="totallyTimeSpent" value="8089000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -244,20 +227,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="712" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="26" width="1280" height="712" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45878693" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.58475894" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281493" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -266,7 +249,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -297,66 +279,97 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ctpnetcore/ctp_enum.cs">
+    <entry file="file://$PROJECT_DIR$/ctpnetcore/EnumDefine.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="6678" column="13" lean-forward="false" selection-start-line="6678" selection-start-column="13" selection-end-line="6678" selection-end-column="13" />
+        <state relative-caret-position="135">
+          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+          <folding>
+            <marker date="1499074863000" expanded="false" signature="6:115" ph="..." />
+            <marker date="1499074863000" expanded="true" signature="130:3194" ph="{...}" />
+            <marker date="1499074863000" expanded="true" signature="134:173" ph="/// 委托类型 ... " />
+            <marker date="1499074863000" expanded="true" signature="196:515" ph="{...}" />
+            <marker date="1499074863000" expanded="true" signature="202:241" ph="/// 限价 ... " />
+            <marker date="1499074863000" expanded="true" signature="279:318" ph="/// 市价 ... " />
+            <marker date="1499074863000" expanded="true" signature="357:398" ph="/// 部成即撤 ... " />
+            <marker date="1499074863000" expanded="true" signature="436:477" ph="/// 全成全撤 ... " />
+            <marker date="1499074863000" expanded="true" signature="519:558" ph="/// 买卖方向 ... " />
+            <marker date="1499074863000" expanded="true" signature="585:738" ph="{...}" />
+            <marker date="1499074863000" expanded="true" signature="591:629" ph="/// 买 ... " />
+            <marker date="1499074863000" expanded="true" signature="665:703" ph="/// 卖 ... " />
+            <marker date="1499074863000" expanded="true" signature="741:778" ph="/// 开平 ... " />
+            <marker date="1499074863000" expanded="true" signature="802:1099" ph="{...}" />
+            <marker date="1499074863000" expanded="true" signature="808:847" ph="/// 开仓 ... " />
+            <marker date="1499074863000" expanded="true" signature="884:923" ph="/// 平仓 ... " />
+            <marker date="1499074863000" expanded="true" signature="961:1000" ph="/// 平今 ... " />
+            <marker date="1499074863000" expanded="true" signature="1043:1096" ph="/* 期权行权 ... */" />
+            <marker date="1499074863000" expanded="true" signature="1101:1140" ph="/// 委托状态 ... " />
+            <marker date="1499074863000" expanded="true" signature="1165:1582" ph="{...}" />
+            <marker date="1499074863000" expanded="true" signature="1171:1210" ph="/// 委托 ... " />
+            <marker date="1499074863000" expanded="true" signature="1249:1288" ph="/// 部成 ... " />
+            <marker date="1499074863000" expanded="true" signature="1328:1367" ph="/// 全成 ... " />
+            <marker date="1499074863000" expanded="true" signature="1406:1464" ph="/// 撤单[某些&quot;被拒绝&quot;的委托也会触发此状态] ... " />
+            <marker date="1499074863000" expanded="true" signature="1505:1544" ph="/// 错误 ... " />
+            <marker date="1499074863000" expanded="true" signature="1585:1623" ph="/// 交易所 ... " />
+            <marker date="1499074863000" expanded="true" signature="1645:2056" ph="{...}" />
+            <marker date="1499074863000" expanded="true" signature="1651:1691" ph="/// 大商所 ... " />
+            <marker date="1499074863000" expanded="true" signature="1728:1768" ph="/// 郑商所 ... " />
+            <marker date="1499074863000" expanded="true" signature="1806:1846" ph="/// 上期所 ... " />
+            <marker date="1499074863000" expanded="true" signature="1884:1924" ph="/// 中金所 ... " />
+            <marker date="1499074863000" expanded="true" signature="1963:2016" ph="/// 上海国际能源交易中心股份有限公司 ... " />
+            <marker date="1499074863000" expanded="true" signature="2059:2099" ph="/// 交易所状态 ... " />
+            <marker date="1499074863000" expanded="true" signature="2131:2466" ph="{...}" />
+            <marker date="1499074863000" expanded="true" signature="2137:2177" ph="/// 开盘前 ... " />
+            <marker date="1499074863000" expanded="true" signature="2224:2264" ph="/// 非交易 ... " />
+            <marker date="1499074863000" expanded="true" signature="2307:2347" ph="/// 交易中 ... " />
+            <marker date="1499074863000" expanded="true" signature="2388:2427" ph="/// 收盘 ... " />
+            <marker date="1499074863000" expanded="true" signature="2469:2510" ph="/// 投机套保标志 ... " />
+            <marker date="1499074863000" expanded="true" signature="2533:2782" ph="{...}" />
+            <marker date="1499074863000" expanded="true" signature="2539:2578" ph="/// 投机 ... " />
+            <marker date="1499074863000" expanded="true" signature="2623:2662" ph="/// 套利 ... " />
+            <marker date="1499074863000" expanded="true" signature="2705:2744" ph="/// 套保 ... " />
+            <marker date="1499074863000" expanded="true" signature="2785:2824" ph="/// 品种类型 ... " />
+            <marker date="1499074863000" expanded="true" signature="2854:3191" ph="{...}" />
+            <marker date="1499074863000" expanded="true" signature="2860:2899" ph="/// 期货 ... " />
+            <marker date="1499074863000" expanded="true" signature="2939:2980" ph="/// 期货期权 ... " />
+            <marker date="1499074863000" expanded="true" signature="3022:3061" ph="/// 组合 ... " />
+            <marker date="1499074863000" expanded="true" signature="3105:3146" ph="/// 现货期权 ... " />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ctpnetcore/BindableBase.cs">
+    <entry file="file://$PROJECT_DIR$/ctpnetcore/EventArgs.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ctpnetcore/TradingAccount.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ctpnetcore/TradeField.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-850">
-          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ctpnetcore/Trade.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4945">
-          <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ctpnetcore/Quote.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
+        <state relative-caret-position="165">
           <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ctpnetcore/PositionField.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ctpnetcore/OrderField.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ctpnetcore/MarketData.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1499074863000" expanded="false" signature="6:115" ph="..." />
+            <marker date="1499074863000" expanded="true" signature="130:1612" ph="{...}" />
+            <marker date="1499074863000" expanded="true" signature="134:169" ph="///  ... " />
+            <marker date="1499074863000" expanded="true" signature="208:282" ph="{...}" />
+            <marker date="1499074863000" expanded="true" signature="214:255" ph="/// 错误代码 ... " />
+            <marker date="1499074863000" expanded="true" signature="285:324" ph="/// 数据事件 ... " />
+            <marker date="1499074863000" expanded="true" signature="364:440" ph="{...}" />
+            <marker date="1499074863000" expanded="true" signature="370:411" ph="/// 行情数据 ... " />
+            <marker date="1499074863000" expanded="true" signature="444:479" ph="///  ... " />
+            <marker date="1499074863000" expanded="true" signature="521:609" ph="{...}" />
+            <marker date="1499074863000" expanded="true" signature="527:568" ph="/// 错误代码 ... " />
+            <marker date="1499074863000" expanded="true" signature="612:647" ph="///  ... " />
+            <marker date="1499074863000" expanded="true" signature="688:849" ph="{...}" />
+            <marker date="1499074863000" expanded="true" signature="694:735" ph="/// 错误代码 ... " />
+            <marker date="1499074863000" expanded="true" signature="764:805" ph="/// 错误说明 ... " />
+            <marker date="1499074863000" expanded="true" signature="852:887" ph="///  ... " />
+            <marker date="1499074863000" expanded="true" signature="929:1134" ph="{...}" />
+            <marker date="1499074863000" expanded="true" signature="935:981" ph="/// 交易所/品种/合约 ... " />
+            <marker date="1499074863000" expanded="true" signature="1025:1066" ph="/// 交易状态 ... " />
+            <marker date="1499074863000" expanded="true" signature="1137:1180" ph="/// 报单状态改变响应 ... " />
+            <marker date="1499074863000" expanded="true" signature="1216:1291" ph="{...}" />
+            <marker date="1499074863000" expanded="true" signature="1222:1261" ph="/// 报单 ... " />
+            <marker date="1499074863000" expanded="true" signature="1330:1455" ph="{...}" />
+            <marker date="1499074863000" expanded="true" signature="1336:1375" ph="/// 报单 ... " />
+            <marker date="1499074863000" expanded="true" signature="1458:1499" ph="/// 报单成交响应 ... " />
+            <marker date="1499074863000" expanded="true" signature="1535:1610" ph="{...}" />
+            <marker date="1499074863000" expanded="true" signature="1541:1580" ph="/// 报单 ... " />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -364,229 +377,364 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1499074863000" expanded="false" signature="6:144" ph="..." />
+            <marker date="1499074863000" expanded="true" signature="159:1752" ph="{...}" />
+            <marker date="1499074863000" expanded="true" signature="164:203" ph="/// 合约信息 ... " />
+            <marker date="1499074863000" expanded="true" signature="248:1750" ph="{...}" />
+            <marker date="1499074863000" expanded="true" signature="254:295" ph="/// 合约代码 ... " />
+            <marker date="1499074863000" expanded="true" signature="463:504" ph="/// 品种代码 ... " />
+            <marker date="1499074863000" expanded="true" signature="662:704" ph="/// 交易所代码 ... " />
+            <marker date="1499074863000" expanded="true" signature="885:928" ph="/// 合约数量乘数 ... " />
+            <marker date="1499074863000" expanded="true" signature="1100:1143" ph="/// 最小变动价位 ... " />
+            <marker date="1499074863000" expanded="true" signature="1301:1342" ph="/// 品种类型 ... " />
+            <marker date="1499074863000" expanded="true" signature="1532:1578" ph="/// 最大委托量[限价] ... " />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ctpnetcore/EventArgs.cs">
+    <entry file="file://$PROJECT_DIR$/ctpnetcore/MarketData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="19" column="37" lean-forward="true" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+          <folding>
+            <marker date="1499074863000" expanded="false" signature="6:144" ph="..." />
+            <marker date="1499074863000" expanded="true" signature="159:3261" ph="{...}" />
+            <marker date="1499074863000" expanded="true" signature="163:198" ph="///  ... " />
+            <marker date="1499074863000" expanded="true" signature="238:3259" ph="{...}" />
+            <marker date="1499074863000" expanded="true" signature="244:323" ph="/// 合约代码SetProperty(ref _InstrumentID, value); ... " />
+            <marker date="1499074863000" expanded="true" signature="490:530" ph="/// 最新价 ... " />
+            <marker date="1499074863000" expanded="true" signature="686:726" ph="///申买价一 ... " />
+            <marker date="1499074863000" expanded="true" signature="878:919" ph="/// 申买量一 ... " />
+            <marker date="1499074863000" expanded="true" signature="1069:1109" ph="///申卖价一 ... " />
+            <marker date="1499074863000" expanded="true" signature="1261:1301" ph="///申卖量一 ... " />
+            <marker date="1499074863000" expanded="true" signature="1451:1491" ph="///当日均价 ... " />
+            <marker date="1499074863000" expanded="true" signature="1660:1698" ph="///数量 ... " />
+            <marker date="1499074863000" expanded="true" signature="1835:1874" ph="///持仓量 ... " />
+            <marker date="1499074863000" expanded="true" signature="2042:2150" ph="///最后修改时间:yyyyMMdd HH:mm:ss(20141114:日期由主程序处理,因大商所取到的actionday==tradingday) ... " />
+            <marker date="1499074863000" expanded="true" signature="2309:2351" ph="///最后修改毫秒 ... " />
+            <marker date="1499074863000" expanded="true" signature="2520:2560" ph="///涨停板价 ... " />
+            <marker date="1499074863000" expanded="true" signature="2739:2779" ph="///跌停板价 ... " />
+            <marker date="1499074863000" expanded="true" signature="2958:3256" ph="/* int IComparable.CompareTo(object obj) ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ctpnetcore/OrderField.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding>
+            <marker date="1499074863000" expanded="false" signature="6:144" ph="..." />
+            <marker date="1499074863000" expanded="true" signature="159:4190" ph="{...}" />
+            <marker date="1499074863000" expanded="true" signature="163:200" ph="/// 报单 ... " />
+            <marker date="1499074863000" expanded="true" signature="240:4188" ph="{...}" />
+            <marker date="1499074863000" expanded="true" signature="246:287" ph="/// 报单标识 ... " />
+            <marker date="1499074863000" expanded="true" signature="471:510" ph="/// 合约 ... " />
+            <marker date="1499074863000" expanded="true" signature="712:751" ph="/// 买卖 ... " />
+            <marker date="1499074863000" expanded="true" signature="921:960" ph="/// 开平 ... " />
+            <marker date="1499074863000" expanded="true" signature="1112:1151" ph="/// 报价 ... " />
+            <marker date="1499074863000" expanded="true" signature="1313:1354" ph="/// 成交均价 ... " />
+            <marker date="1499074863000" expanded="true" signature="1508:1554" ph="/// 报单时间(交易所) ... " />
+            <marker date="1499074863000" expanded="true" signature="1750:1815" ph="/// 最后成交时间(撤单状态时为撤单时间-IsLocal有效) ... " />
+            <marker date="1499074863000" expanded="true" signature="2007:2057" ph="/// 末次成交量,trade更新 ... " />
+            <marker date="1499074863000" expanded="true" signature="2218:2259" ph="/// 报单数量 ... " />
+            <marker date="1499074863000" expanded="true" signature="2399:2447" ph="/// 未成交,trade更新 ... " />
+            <marker date="1499074863000" expanded="true" signature="2604:2643" ph="/// 投保 ... " />
+            <marker date="1499074863000" expanded="true" signature="2789:2828" ph="/// 状态 ... " />
+            <marker date="1499074863000" expanded="true" signature="2982:3023" ph="/// 状态描述 ... " />
+            <marker date="1499074863000" expanded="true" signature="3215:3258" ph="/// 是否自身委托 ... " />
+            <marker date="1499074863000" expanded="true" signature="3404:3461" ph="/// 客户自定义字段(xSpeed仅支持数字) ... " />
+            <marker date="1499074863000" expanded="true" signature="3600:3645" ph="/// 交易所生成的ID ... " />
+            <marker date="1499074863000" expanded="true" signature="3822:3946" ph="/// 返回:标识,合约,买卖,开平,报价,手数,报单时间,成交均价,剩余手数,成交时间,状态,状态信息,本地,自定义,交易所编号 ... " />
+            <marker date="1499074863000" expanded="true" signature="3982:4185" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ctpnetcore/PositionField.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1499074863000" expanded="false" signature="6:144" ph="..." />
+            <marker date="1499074863000" expanded="true" signature="159:2926" ph="{...}" />
+            <marker date="1499074863000" expanded="true" signature="163:205" ph="/// 投资者持仓明细 ... " />
+            <marker date="1499074863000" expanded="true" signature="248:2924" ph="{...}" />
+            <marker date="1499074863000" expanded="true" signature="254:295" ph="/// 合约代码 ... " />
+            <marker date="1499074863000" expanded="true" signature="497:536" ph="/// 买卖 ... " />
+            <marker date="1499074863000" expanded="true" signature="706:747" ph="/// 持仓均价 ... " />
+            <marker date="1499074863000" expanded="true" signature="889:930" ph="/// 持仓总量 ... " />
+            <marker date="1499074863000" expanded="true" signature="1077:1116" ph="/// 昨仓 ... " />
+            <marker date="1499074863000" expanded="true" signature="1270:1309" ph="/// 今仓 ... " />
+            <marker date="1499074863000" expanded="true" signature="1463:1539" ph="/* 可平量 ... */" />
+            <marker date="1499074863000" expanded="true" signature="1543:1670" ph="/// 占用保证金 ... " />
+            <marker date="1499074863000" expanded="true" signature="1816:1857" ph="/// 平仓盈亏 ... " />
+            <marker date="1499074863000" expanded="true" signature="2023:2064" ph="/// 持仓盈亏 ... " />
+            <marker date="1499074863000" expanded="true" signature="2242:2282" ph="/// 手续费 ... " />
+            <marker date="1499074863000" expanded="true" signature="2443:2483" ph="/// 保证金 ... " />
+            <marker date="1499074863000" expanded="true" signature="2628:2728" ph="/// 返回:合约,多空,持仓均价,总持仓,今仓,昨仓,平仓盈亏,持仓盈亏,手续费 ... " />
+            <marker date="1499074863000" expanded="true" signature="2764:2921" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ctpnetcore/EnumDescriptionAttribute.cs">
+    <entry file="file://$PROJECT_DIR$/ctpnetcore/TradeField.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        <state relative-caret-position="15">
+          <caret line="16" column="22" lean-forward="false" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding>
+            <marker date="1499074863000" expanded="false" signature="6:144" ph="..." />
+            <marker date="1499074863000" expanded="true" signature="159:3064" ph="{...}" />
+            <marker date="1499074863000" expanded="true" signature="163:200" ph="/// 成交 ... " />
+            <marker date="1499074863000" expanded="true" signature="240:3062" ph="{...}" />
+            <marker date="1499074863000" expanded="true" signature="246:287" ph="/// 成交编号 ... " />
+            <marker date="1499074863000" expanded="true" signature="471:512" ph="/// 合约代码 ... " />
+            <marker date="1499074863000" expanded="true" signature="714:756" ph="/// 交易所代码 ... " />
+            <marker date="1499074863000" expanded="true" signature="937:978" ph="/// 买卖方向 ... " />
+            <marker date="1499074863000" expanded="true" signature="1148:1189" ph="/// 开平标志 ... " />
+            <marker date="1499074863000" expanded="true" signature="1341:1384" ph="/// 投机套保标志 ... " />
+            <marker date="1499074863000" expanded="true" signature="1530:1571" ph="/// 成交价格 ... " />
+            <marker date="1499074863000" expanded="true" signature="1713:1754" ph="/// 成交数量 ... " />
+            <marker date="1499074863000" expanded="true" signature="1894:1935" ph="/// 成交时间 ... " />
+            <marker date="1499074863000" expanded="true" signature="2112:2152" ph="/// 交易日 ... " />
+            <marker date="1499074863000" expanded="true" signature="2347:2391" ph="/// 对应的委托标识 ... " />
+            <marker date="1499074863000" expanded="true" signature="2575:2620" ph="/// 交易所生成的编号 ... " />
+            <marker date="1499074863000" expanded="true" signature="2797:2898" ph="/// 返回:标识,合约,买卖,开平,成交价,手数,成交时间,报单单编号,交易所编号 ... " />
+            <marker date="1499074863000" expanded="true" signature="2934:3059" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ctpnetcore/CTPQuote.cs">
+    <entry file="file://$PROJECT_DIR$/ctpnetcore/TradingAccount.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="135">
+          <caret line="14" column="21" lean-forward="false" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding>
+            <marker date="1499074863000" expanded="false" signature="6:144" ph="..." />
+            <marker date="1499074863000" expanded="true" signature="159:2319" ph="{...}" />
+            <marker date="1499074863000" expanded="true" signature="163:202" ph="/// 帐户权益 ... " />
+            <marker date="1499074863000" expanded="true" signature="246:2317" ph="{...}" />
+            <marker date="1499074863000" expanded="true" signature="252:296" ph="/// 上次结算准备金 ... " />
+            <marker date="1499074863000" expanded="true" signature="458:499" ph="/// 持仓盈亏 ... " />
+            <marker date="1499074863000" expanded="true" signature="677:718" ph="/// 平仓盈亏 ... " />
+            <marker date="1499074863000" expanded="true" signature="884:924" ph="/// 手续费 ... " />
+            <marker date="1499074863000" expanded="true" signature="1085:1129" ph="/// 当前保证金总额 ... " />
+            <marker date="1499074863000" expanded="true" signature="1292:1334" ph="/// 冻结的资金 ... " />
+            <marker date="1499074863000" expanded="true" signature="1496:1537" ph="/// 可用资金 ... " />
+            <marker date="1499074863000" expanded="true" signature="1695:1736" ph="/// 动态权益 ... " />
+            <marker date="1499074863000" expanded="true" signature="1874:1914" ph="/// 风险度 ... " />
+            <marker date="1499074863000" expanded="true" signature="2051:2152" ph="/// 返回:静态权益,持仓盈亏,平仓盈亏,保证金占用,冻结资金,可用资金,动态权益 ... " />
+            <marker date="1499074863000" expanded="true" signature="2188:2314" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ctpnetcore/EnumDefine.cs">
+    <entry file="file://$PROJECT_DIR$/ctpnetcore/Trade.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="15">
+          <caret line="27" column="21" lean-forward="false" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+          <folding>
+            <marker date="1499074863000" expanded="false" signature="6:331" ph="..." />
+            <marker date="1499074863000" expanded="true" signature="346:7731" ph="{...}" />
+            <marker date="1499074863000" expanded="true" signature="377:7729" ph="{...}" />
+            <marker date="1499074863000" expanded="true" signature="383:433" ph="/// 交易所/品种/合约交易状态 ... " />
+            <marker date="1499074863000" expanded="true" signature="566:607" ph="/// 合约信息 ... " />
+            <marker date="1499074863000" expanded="true" signature="740:806" ph="/// 报单. CTP:session|front|orderef ... " />
+            <marker date="1499074863000" expanded="true" signature="924:990" ph="/// 成交. CTP:TradeID+Direct(区分自成交) ... " />
+            <marker date="1499074863000" expanded="true" signature="1108:1147" ph="/// 持仓 ... " />
+            <marker date="1499074863000" expanded="true" signature="1274:1315" ph="/// 资金权益 ... " />
+            <marker date="1499074863000" expanded="true" signature="1383:1484" ph="/// 连接 ... " />
+            <marker date="1499074863000" expanded="true" signature="1546:1736" ph="/// 登录 ... " />
+            <marker date="1499074863000" expanded="true" signature="1828:1868" ph="/// 交易日 ... " />
+            <marker date="1499074863000" expanded="true" signature="1932:1975" ph="/// 是否登录成功 ... " />
+            <marker date="1499074863000" expanded="true" signature="2034:2099" ph="/// 退出 ... " />
+            <marker date="1499074863000" expanded="true" signature="2215:2606" ph="/// 委托 ... " />
+            <marker date="1499074863000" expanded="true" signature="2832:2933" ph="///  ... " />
+            <marker date="1499074863000" expanded="true" signature="2992:3139" ph="///  ... " />
+            <marker date="1499074863000" expanded="true" signature="3230:3299" ph="/// 取交易所时间 ... " />
+            <marker date="1499074863000" expanded="true" signature="3349:3433" ph="/// 取交易所状态(参数错误时返回Closed) ... " />
+            <marker date="1499074863000" expanded="true" signature="3509:7726" ph="注册响应" />
+            <marker date="1499074863000" expanded="true" signature="3524:3628" ph="///  ... " />
+            <marker date="1499074863000" expanded="true" signature="3745:3782" ph="///  ... " />
+            <marker date="1499074863000" expanded="true" signature="3942:4046" ph="///  ... " />
+            <marker date="1499074863000" expanded="true" signature="4160:4197" ph="///  ... " />
+            <marker date="1499074863000" expanded="true" signature="4349:4453" ph="///  ... " />
+            <marker date="1499074863000" expanded="true" signature="4570:4607" ph="///  ... " />
+            <marker date="1499074863000" expanded="true" signature="4763:4867" ph="///  ... " />
+            <marker date="1499074863000" expanded="true" signature="4971:5008" ph="///  ... " />
+            <marker date="1499074863000" expanded="true" signature="5144:5248" ph="///  ... " />
+            <marker date="1499074863000" expanded="true" signature="5356:5393" ph="///  ... " />
+            <marker date="1499074863000" expanded="true" signature="5533:5637" ph="///  ... " />
+            <marker date="1499074863000" expanded="true" signature="5769:5806" ph="///  ... " />
+            <marker date="1499074863000" expanded="true" signature="5978:6082" ph="///  ... " />
+            <marker date="1499074863000" expanded="true" signature="6181:6218" ph="///  ... " />
+            <marker date="1499074863000" expanded="true" signature="6462:6499" ph="///  ... " />
+            <marker date="1499074863000" expanded="true" signature="6688:6725" ph="///  ... " />
+            <marker date="1499074863000" expanded="true" signature="6911:6952" ph="/// 撤单响应 ... " />
+            <marker date="1499074863000" expanded="true" signature="7094:7202" ph="/// 成交响应 ... " />
+            <marker date="1499074863000" expanded="true" signature="7301:7338" ph="///  ... " />
+            <marker date="1499074863000" expanded="true" signature="7517:7554" ph="///  ... " />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ctpnetcore/CTPTrade.cs">
+    <entry file="file://$PROJECT_DIR$/ctpnetcore/Quote.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        <state relative-caret-position="150">
+          <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <folding>
+            <marker date="1499074863000" expanded="false" signature="6:152" ph="..." />
+            <marker date="1499074863000" expanded="true" signature="167:3393" ph="{...}" />
+            <marker date="1499074863000" expanded="true" signature="198:3391" ph="{...}" />
+            <marker date="1499074863000" expanded="true" signature="313:356" ph="/// Tick数据 ... " />
+            <marker date="1499074863000" expanded="true" signature="445:2505" ph="响应" />
+            <marker date="1499074863000" expanded="true" signature="458:562" ph="///  ... " />
+            <marker date="1499074863000" expanded="true" signature="630:672" ph="/// 行情响应用 ... " />
+            <marker date="1499074863000" expanded="true" signature="707:744" ph="///  ... " />
+            <marker date="1499074863000" expanded="true" signature="876:980" ph="///  ... " />
+            <marker date="1499074863000" expanded="true" signature="1097:1134" ph="///  ... " />
+            <marker date="1499074863000" expanded="true" signature="1294:1398" ph="///  ... " />
+            <marker date="1499074863000" expanded="true" signature="1512:1549" ph="///  ... " />
+            <marker date="1499074863000" expanded="true" signature="1701:1805" ph="///  ... " />
+            <marker date="1499074863000" expanded="true" signature="1922:1959" ph="///  ... " />
+            <marker date="1499074863000" expanded="true" signature="2115:2219" ph="///  ... " />
+            <marker date="1499074863000" expanded="true" signature="2323:2360" ph="///  ... " />
+            <marker date="1499074863000" expanded="true" signature="2512:2577" ph="/// 连接 ... " />
+            <marker date="1499074863000" expanded="true" signature="2639:2729" ph="/// 登录[重连时自动订阅DicTick.Keys中的合约] ... " />
+            <marker date="1499074863000" expanded="true" signature="2821:2864" ph="/// 是否登录成功 ... " />
+            <marker date="1499074863000" expanded="true" signature="2923:2974" ph="/// 退订[接口会Release] ... " />
+            <marker date="1499074863000" expanded="true" signature="3018:3126" ph="/// 订阅合约 ... " />
+            <marker date="1499074863000" expanded="true" signature="3205:3311" ph="/// 退订 ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ctpnetcore/ctp_enum.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="6678" column="13" lean-forward="false" selection-start-line="6678" selection-start-column="13" selection-end-line="6678" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ctpnetcore/BindableBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          <folding>
+            <marker date="1499074713000" expanded="true" signature="6:144" ph="..." />
+            <marker date="1499074713000" expanded="true" signature="159:1494" ph="{...}" />
+            <marker date="1499074713000" expanded="true" signature="164:280" ph="/// {get;set;} = &gt;  { get { return _Status; } set { SetProperty(ref ^1, value); } } } ... " />
+            <marker date="1499074713000" expanded="true" signature="341:1492" ph="{...}" />
+            <marker date="1499074713000" expanded="true" signature="347:384" ph="///  ... " />
+            <marker date="1499074713000" expanded="true" signature="448:664" ph="///  ... " />
+            <marker date="1499074713000" expanded="true" signature="799:1217" ph="{...}" />
+            <marker date="1499074713000" expanded="true" signature="919:1176" ph="{...}" />
+            <marker date="1499074713000" expanded="true" signature="1070:1154" ph="{...}" />
+            <marker date="1499074713000" expanded="true" signature="1189:1213" ph="{...}" />
+            <marker date="1499074713000" expanded="true" signature="1221:1300" ph="///  ... " />
+            <marker date="1499074713000" expanded="true" signature="1360:1489" ph="{...}" />
+            <marker date="1499074713000" expanded="true" signature="1396:1485" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ctpnetcore/ctp_struct.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="165">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ctpnetcore/ctp_trade.cs">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/08EBC907-8DA9-42D9-9D1A-C84C213472DC/bf/6713a9a6/ResourceManager.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="196">
+          <caret line="486" column="35" lean-forward="false" selection-start-line="486" selection-start-column="26" selection-end-line="486" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A9FD769C-937A-4979-8F26-B481D0495E52/10/97bb19cb/ResourceManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="41" column="19" lean-forward="false" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B0A5AEF5-D59C-41AB-88A8-070188F91A13/90/7e175989/TypeInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="395" column="29" lean-forward="false" selection-start-line="395" selection-start-column="29" selection-end-line="395" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ctpnetcore/EnumDescriptionAttribute.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="38" lean-forward="true" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
           <folding>
-            <marker date="1499074863000" expanded="true" signature="8:70" ph="..." />
-            <marker date="1499074863000" expanded="true" signature="111:103150" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="117:1771" ph="Dll Load /UnLoad" />
-            <marker date="1499074863000" expanded="true" signature="144:311" ph="/// 原型是 :HMODULE LoadLibrary(LPCTSTR lpFileName); ... " />
-            <marker date="1499074863000" expanded="true" signature="408:647" ph="/// 原型是 : FARPROC GetProcAddress(HMODULE hModule, LPCWSTR lpProcName); ... " />
-            <marker date="1499074863000" expanded="true" signature="763:931" ph="/// 原型是 : BOOL FreeLibrary(HMODULE hModule); ... " />
-            <marker date="1499074863000" expanded="true" signature="1068:1286" ph="/// ... " />
-            <marker date="1499074863000" expanded="true" signature="1363:1758" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="1423:1497" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="1617:1693" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="1965:2623" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="2199:2305" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="2628:12579" ph="声明REQ函数类型" />
-            <marker date="1499074863000" expanded="true" signature="12583:67509" ph="REQ函数" />
-            <marker date="1499074863000" expanded="true" signature="12654:12844" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="12868:12949" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="12973:13054" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="13087:13195" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="13250:13375" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="13432:13569" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="13730:14021" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="13809:13888" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="14094:14239" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="14311:14453" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="14579:14917" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="14664:14780" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="15231:15803" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="15310:15675" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="15876:16134" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="15951:16003" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="16265:16625" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="16356:16470" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="16793:17238" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="16904:17053" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="18425:19591" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="18500:19457" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="21029:22346" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="21106:22194" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="23079:23956" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="23168:23804" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="24432:25147" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="24519:25013" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="25526:25981" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="25619:25823" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="26119:26502" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="26216:26338" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="26613:26949" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="26702:26797" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="27072:27450" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="27173:27280" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="28401:29252" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="28484:29106" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="29699:30395" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="29794:30249" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="30644:31131" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="30725:30988" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="31950:32839" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="32025:32705" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="33292:33969" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="33379:33835" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="34248:34808" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="34345:34659" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="35310:35889" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="35395:35740" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="36094:36515" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="36165:36390" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="36715:37126" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="36786:37001" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="37238:37582" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="37331:37424" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="37690:38020" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="37779:37868" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="38098:38369" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="38175:38235" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="38594:38967" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="38677:38824" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="39170:39561" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="39271:39391" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="39681:40065" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="39790:39883" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="40121:40367" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="40198:40233" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="40513:40785" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="40588:40654" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="40920:41273" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="41001:41133" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="41338:41623" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="41429:41468" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="41731:42061" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="41820:41909" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="42141:42428" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="42226:42282" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="42546:42920" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="42651:42744" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="42972:43204" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="43045:43076" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="43295:43631" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="43398:43458" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="43760:44177" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="43879:43980" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="44269:44610" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="44374:44434" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="44744:45107" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="44833:44955" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="45318:45743" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="45431:45555" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="45920:46272" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="46017:46108" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="46455:46837" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="46564:46655" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="46949:47281" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="47034:47135" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="47409:47763" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="47500:47608" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="47825:48104" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="47916:47949" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="48187:48480" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="48272:48334" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="48602:48996" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="48715:48808" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="49113:49482" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="49216:49309" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="49601:49980" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="49708:49801" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="50234:50694" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="50335:50524" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="50809:51168" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="50908:51001" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="51381:51830" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="51460:51693" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="52014:52421" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="52091:52287" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="52626:53047" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="52697:52922" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="53138:53468" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="53237:53301" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="53598:53941" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="53679:53801" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="54068:54417" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="54157:54265" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="54571:54958" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="54662:54803" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="55060:55372" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="55145:55226" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="55503:55851" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="55586:55708" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="55988:56366" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="56083:56205" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="56449:56745" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="56536:56596" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="56858:57213" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="56957:57046" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="57327:57681" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="57424:57517" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="57777:58138" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="57890:57950" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="59853:61419" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="59930:61246" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="63134:64700" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="63211:64527" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="66121:67495" ph="{...}" />
-            <marker date="1499074863000" expanded="true" signature="66206:67307" ph="{...}" />
+            <marker date="1499241326000" expanded="true" signature="6:348" ph="..." />
+            <marker date="1499241326000" expanded="true" signature="363:6429" ph="{...}" />
+            <marker date="1499241326000" expanded="true" signature="368:403" ph="///  ... " />
+            <marker date="1499241326000" expanded="true" signature="550:898" ph="{...}" />
+            <marker date="1499241326000" expanded="true" signature="586:623" ph="///  ... " />
+            <marker date="1499241326000" expanded="true" signature="651:705" ph="{...}" />
+            <marker date="1499241326000" expanded="true" signature="662:701" ph="{...}" />
+            <marker date="1499241326000" expanded="true" signature="708:786" ph="///  ... " />
+            <marker date="1499241326000" expanded="true" signature="852:895" ph="{...}" />
+            <marker date="1499241326000" expanded="true" signature="900:935" ph="///  ... " />
+            <marker date="1499241326000" expanded="true" signature="967:3056" ph="{...}" />
+            <marker date="1499241326000" expanded="true" signature="973:1816" ph="GetDescription" />
+            <marker date="1499241326000" expanded="true" signature="998:1281" ph="/// Gets the &lt;see cref=&quot;DescriptionAttribute&quot;/&gt; of an &lt;see cref=&quot;Enum&quot;/&gt; type value. ... " />
+            <marker date="1499241326000" expanded="true" signature="1336:1803" ph="{...}" />
+            <marker date="1499241326000" expanded="true" signature="1362:1418" ph="{...}" />
+            <marker date="1499241326000" expanded="true" signature="1721:1776" ph="{...}" />
+            <marker date="1499241326000" expanded="true" signature="1820:3053" ph="ToExtendedList" />
+            <marker date="1499241326000" expanded="true" signature="1845:2128" ph="///  Converts the &lt;see cref=&quot;Enum&quot;/&gt; type to an &lt;see cref=&quot;IList&quot;/&gt; compatible object. ... " />
+            <marker date="1499241326000" expanded="true" signature="2131:2423" ph="[...]" />
+            <marker date="1499241326000" expanded="true" signature="2530:3040" ph="{...}" />
+            <marker date="1499241326000" expanded="true" signature="2555:2610" ph="{...}" />
+            <marker date="1499241326000" expanded="true" signature="2632:2735" ph="{...}" />
+            <marker date="1499241326000" expanded="true" signature="2856:3019" ph="{...}" />
+            <marker date="1499241326000" expanded="true" signature="3058:6427" ph="struct KeyValueTriplet" />
+            <marker date="1499241326000" expanded="true" signature="3090:3326" ph="/// Defines a key/numeric key/value triplet that can be set or retrieved. ... " />
+            <marker date="1499241326000" expanded="true" signature="3623:6415" ph="{...}" />
+            <marker date="1499241326000" expanded="true" signature="3629:3745" ph="class-wide fields" />
+            <marker date="1499241326000" expanded="true" signature="3749:4059" ph="Key" />
+            <marker date="1499241326000" expanded="true" signature="3763:3982" ph="/// Gets the key in the key/numeric key/value triplet. ... " />
+            <marker date="1499241326000" expanded="true" signature="4000:4046" ph="{...}" />
+            <marker date="1499241326000" expanded="true" signature="4011:4042" ph="{...}" />
+            <marker date="1499241326000" expanded="true" signature="4063:4460" ph="NumericKey" />
+            <marker date="1499241326000" expanded="true" signature="4084:4362" ph="/// Gets the numeric representation of the &lt;see cref=&quot;Key&quot;/&gt; in the key/numeric key/value triplet. ... " />
+            <marker date="1499241326000" expanded="true" signature="4394:4447" ph="{...}" />
+            <marker date="1499241326000" expanded="true" signature="4405:4443" ph="{...}" />
+            <marker date="1499241326000" expanded="true" signature="4464:4788" ph="Value" />
+            <marker date="1499241326000" expanded="true" signature="4480:4705" ph="/// Gets the value in the key/numeric key/value triplet. ... " />
+            <marker date="1499241326000" expanded="true" signature="4727:4775" ph="{...}" />
+            <marker date="1499241326000" expanded="true" signature="4738:4771" ph="{...}" />
+            <marker date="1499241326000" expanded="true" signature="4792:5504" ph="constructor" />
+            <marker date="1499241326000" expanded="true" signature="4814:5335" ph="/// Inititalizes a new instance of the &lt;see cref=&quot;KeyValueTriplet{TKey, TNumericKey, TValue}&quot;/&gt; ... " />
+            <marker date="1499241326000" expanded="true" signature="5408:5491" ph="{...}" />
+            <marker date="1499241326000" expanded="true" signature="5508:6412" ph="ToString" />
+            <marker date="1499241326000" expanded="true" signature="5527:5933" ph="/// Returns a string representation of the &lt;see cref=&quot;KeyValueTriplet{TKey, TNumericKey, TValue}&quot;/&gt;, ... " />
+            <marker date="1499241326000" expanded="true" signature="5969:6399" ph="{...}" />
+            <marker date="1499241326000" expanded="true" signature="6070:6121" ph="{...}" />
+            <marker date="1499241326000" expanded="true" signature="6178:6236" ph="{...}" />
+            <marker date="1499241326000" expanded="true" signature="6288:6341" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ctpnetcore/ctp_quote.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        <state relative-caret-position="251">
+          <caret line="77" column="0" lean-forward="true" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
           <folding>
-            <marker date="1499075971000" expanded="true" signature="8:92" ph="..." />
+            <marker date="1499075971000" expanded="false" signature="8:92" ph="..." />
             <marker date="1499075971000" expanded="true" signature="107:10675" ph="{...}" />
             <marker date="1499075971000" expanded="true" signature="133:10673" ph="{...}" />
             <marker date="1499075971000" expanded="true" signature="139:1793" ph="Dll Load /UnLoad" />
@@ -617,6 +765,232 @@
             <marker date="1499075971000" expanded="true" signature="6495:6860" ph="{...}" />
             <marker date="1499075971000" expanded="true" signature="7061:7319" ph="{...}" />
             <marker date="1499075971000" expanded="true" signature="7136:7188" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ctpnetcore/ctp_trade.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="63" column="33" lean-forward="true" selection-start-line="63" selection-start-column="33" selection-end-line="63" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ctpnetcore/CTPTrade.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10560">
+          <caret line="715" column="44" lean-forward="true" selection-start-line="715" selection-start-column="44" selection-end-line="715" selection-end-column="44" />
+          <folding>
+            <marker date="1499075488000" expanded="false" signature="6:307" ph="..." />
+            <marker date="1499075488000" expanded="true" signature="322:32354" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="355:32352" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="1227:1727" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="1484:1650" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="1731:1772" ph="/// 结算信息 ... " />
+            <marker date="1499075488000" expanded="true" signature="1916:3950" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="3988:4049" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="4101:4225" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="4373:5043" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="4465:4549" ph="/* else //正常登录时注册连接事件(后续自动重连时可自行登录) ... */" />
+            <marker date="1499075488000" expanded="true" signature="4580:4939" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="4947:5039" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="5221:5255" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="5410:5575" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="5477:5571" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="5671:6364" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="5787:6152" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="6226:6360" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="6512:7686" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="6555:7337" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="7517:7682" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="7605:7677" ph="/* Thread.Sleep(1100); ... */" />
+            <marker date="1499075488000" expanded="true" signature="7846:9005" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="7907:8927" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="8539:8672" ph="/* this.TradingAccount.Reserve = pTradingAccount.Reserve; ... */" />
+            <marker date="1499075488000" expanded="true" signature="8943:9001" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="8984:8996" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="9171:12227" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="9237:9300" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="9317:12223" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="9408:11468" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="9526:9866" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="10144:10235" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="10244:10928" ph="/* if (pInvestorPosition.PositionDate == TThostFtdcPositionDateType.THOST_FTDC_PSD_Today) ... */" />
+            <marker date="1499075488000" expanded="true" signature="11891:12178" ph="/* 由查帐户资金函数处理,原因:保证金有单边收的情况无法用持仓统计 ... */" />
+            <marker date="1499075488000" expanded="true" signature="12252:12939" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="12765:12935" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="13002:16970" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="13391:14764" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="13658:13737" ph="/* SysID = string.Empty,        //为null会导致界面显示错误 ... */" />
+            <marker date="1499075488000" expanded="true" signature="13923:14013" ph="/* pOrder-&gt;VolumeTotal; ... */" />
+            <marker date="1499075488000" expanded="true" signature="14773:14940" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="14846:14935" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="14948:16471" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="15253:15325" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="15407:16466" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="15689:15978" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="15767:15895" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="15984:16460" ph="/* 撤单次数等规则由业务层处理 ... */" />
+            <marker date="1499075488000" expanded="true" signature="16533:16966" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="16642:16961" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="16770:16955" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="16825:16928" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="17033:20130" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="17234:17414" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="17452:18306" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="18497:20126" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="18814:18891" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="18900:18978" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="18996:20121" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="19008:19967" ph="更新持仓" />
+            <marker date="1499075488000" expanded="true" signature="19093:19457" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="19467:19951" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="19659:19709" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="19720:19913" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="20134:20340" ph="/// 处理错单: CTP平台返回 ... " />
+            <marker date="1499075488000" expanded="true" signature="20485:23283" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="20493:20934" ph="/* ref重复::重发 ... */" />
+            <marker date="1499075488000" expanded="true" signature="21092:22799" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="21172:21394" ph="/* pOrder.OrderRef.Length &lt;= 6 ? string.Empty : pOrder.OrderRef.Substring(pOrder.OrderRef.Length - 6), ... */" />
+            <marker date="1499075488000" expanded="true" signature="21494:21575" ph="/* 为null会导致界面显示错误 ... */" />
+            <marker date="1499075488000" expanded="true" signature="21787:21980" ph="/* pOrder-&gt;VolumeTotal; ... */" />
+            <marker date="1499075488000" expanded="true" signature="22801:23274" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="23112:23268" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="23287:23414" ph="/// 处理错单: 交易所返回 ... " />
+            <marker date="1499075488000" expanded="true" signature="23532:25543" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="23772:25539" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="23849:25278" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="24019:24100" ph="/* 为null会导致界面显示错误 ... */" />
+            <marker date="1499075488000" expanded="true" signature="24297:24484" ph="/* pOrder-&gt;VolumeTotal; ... */" />
+            <marker date="1499075488000" expanded="true" signature="25701:26088" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="25948:26084" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="26209:26581" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="26441:26577" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="26750:26905" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="26770:26901" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="27002:27232" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="27076:27226" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="27327:27471" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="27634:27746" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="27817:28204" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="28274:28362" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="28420:28651" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="28739:28867" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="28907:29167" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="29041:29146" ph="/* 取消连接响应,避免重连后的再登录.（release中已处理） ... */" />
+            <marker date="1499075488000" expanded="true" signature="29222:29790" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="29297:29501" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="29356:29479" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="30012:32165" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="30286:30498" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="30540:30694" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="30736:30967" ph="{...}" />
+            <marker date="1499075488000" expanded="true" signature="32252:32349" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ctpnetcore/obj/Debug/netstandard2.0/ctpnetcore.AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+          <folding>
+            <marker date="1499241293000" expanded="false" signature="60:92" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ctpnetcore/Properties/AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="35" lean-forward="false" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ctpnetcore/Properties/Resources.Designer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="36" column="22" lean-forward="true" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+          <folding>
+            <marker date="1499242047000" expanded="true" signature="0:306" ph="/* ------------------------------------------------------------------------------ ... */" />
+            <marker date="1499242047000" expanded="true" signature="333:3675" ph="{...}" />
+            <marker date="1499242047000" expanded="true" signature="367:601" ph="///   一个强类型的资源类，用于查找本地化的字符串等。 ... " />
+            <marker date="1499242047000" expanded="true" signature="897:3673" ph="{...}" />
+            <marker date="1499242047000" expanded="true" signature="1248:1259" ph="{...}" />
+            <marker date="1499242047000" expanded="true" signature="1277:1358" ph="///   返回此类使用的缓存的 ResourceManager 实例。 ... " />
+            <marker date="1499242047000" expanded="true" signature="1566:1938" ph="{...}" />
+            <marker date="1499242047000" expanded="true" signature="1584:1928" ph="{...}" />
+            <marker date="1499242047000" expanded="true" signature="1649:1878" ph="{...}" />
+            <marker date="1499242047000" expanded="true" signature="1956:2067" ph="///   使用此强类型资源类，为所有资源查找 ... " />
+            <marker date="1499242047000" expanded="true" signature="2267:2423" ph="{...}" />
+            <marker date="1499242047000" expanded="true" signature="2285:2340" ph="{...}" />
+            <marker date="1499242047000" expanded="true" signature="2357:2413" ph="{...}" />
+            <marker date="1499242047000" expanded="true" signature="2441:2518" ph="///   查找 System.Byte[] 类型的本地化资源。 ... " />
+            <marker date="1499242047000" expanded="true" signature="2560:2729" ph="{...}" />
+            <marker date="1499242047000" expanded="true" signature="2578:2719" ph="{...}" />
+            <marker date="1499242047000" expanded="true" signature="2747:2824" ph="///   查找 System.Byte[] 类型的本地化资源。 ... " />
+            <marker date="1499242047000" expanded="true" signature="2866:3035" ph="{...}" />
+            <marker date="1499242047000" expanded="true" signature="2884:3025" ph="{...}" />
+            <marker date="1499242047000" expanded="true" signature="3053:3130" ph="///   查找 System.Byte[] 类型的本地化资源。 ... " />
+            <marker date="1499242047000" expanded="true" signature="3177:3351" ph="{...}" />
+            <marker date="1499242047000" expanded="true" signature="3195:3341" ph="{...}" />
+            <marker date="1499242047000" expanded="true" signature="3369:3446" ph="///   查找 System.Byte[] 类型的本地化资源。 ... " />
+            <marker date="1499242047000" expanded="true" signature="3493:3667" ph="{...}" />
+            <marker date="1499242047000" expanded="true" signature="3511:3657" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ctpnetcore/Properties/Resources.resx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <folding>
+            <element signature="n#xsd:schema#0;n#root#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ctpnetcore/CTPQuote.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+          <folding>
+            <marker date="1499239999000" expanded="true" signature="6:220" ph="..." />
+            <marker date="1499239999000" expanded="true" signature="235:6545" ph="{...}" />
+            <marker date="1499239999000" expanded="true" signature="268:6543" ph="{...}" />
+            <marker date="1499239999000" expanded="true" signature="383:860" ph="{...}" />
+            <marker date="1499239999000" expanded="true" signature="622:788" ph="{...}" />
+            <marker date="1499239999000" expanded="true" signature="946:1588" ph="{...}" />
+            <marker date="1499239999000" expanded="true" signature="1681:3843" ph="{...}" />
+            <marker date="1499239999000" expanded="true" signature="1874:1896" ph="{...}" />
+            <marker date="1499239999000" expanded="true" signature="1984:2241" ph="{...}" />
+            <marker date="1499239999000" expanded="true" signature="2055:2099" ph="{...}" />
+            <marker date="1499239999000" expanded="true" signature="2170:2214" ph="{...}" />
+            <marker date="1499239999000" expanded="true" signature="2246:2544" ph="/* 去掉tradingday字段 ... */" />
+            <marker date="1499239999000" expanded="true" signature="2593:2634" ph="{...}" />
+            <marker date="1499239999000" expanded="true" signature="2674:2715" ph="{...}" />
+            <marker date="1499239999000" expanded="true" signature="2795:2839" ph="{...}" />
+            <marker date="1499239999000" expanded="true" signature="2906:2949" ph="{...}" />
+            <marker date="1499239999000" expanded="true" signature="3031:3072" ph="{...}" />
+            <marker date="1499239999000" expanded="true" signature="3195:3254" ph="{...}" />
+            <marker date="1499239999000" expanded="true" signature="3815:3837" ph="{...}" />
+            <marker date="1499239999000" expanded="true" signature="4007:4015" ph="{...}" />
+            <marker date="1499239999000" expanded="true" signature="4067:4191" ph="{...}" />
+            <marker date="1499239999000" expanded="true" signature="4288:4407" ph="{...}" />
+            <marker date="1499239999000" expanded="true" signature="4555:4845" ph="{...}" />
+            <marker date="1499239999000" expanded="true" signature="4676:4760" ph="{...}" />
+            <marker date="1499239999000" expanded="true" signature="4883:4944" ph="{...}" />
+            <marker date="1499239999000" expanded="true" signature="5058:5202" ph="{...}" />
+            <marker date="1499239999000" expanded="true" signature="5277:5640" ph="{...}" />
+            <marker date="1499239999000" expanded="true" signature="5475:5570" ph="{...}" />
+            <marker date="1499239999000" expanded="true" signature="5717:6053" ph="{...}" />
+            <marker date="1499239999000" expanded="true" signature="5915:5981" ph="{...}" />
+            <marker date="1499239999000" expanded="true" signature="6141:6240" ph="{...}" />
+            <marker date="1499239999000" expanded="true" signature="6280:6540" ph="{...}" />
+            <marker date="1499239999000" expanded="true" signature="6414:6519" ph="/* 取消连接响应,避免重连后的再登录.（release中已处理） ... */" />
           </folding>
         </state>
       </provider>

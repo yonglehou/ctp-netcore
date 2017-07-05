@@ -5,8 +5,8 @@ using System.Linq;
 using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
-using HaiFeng.Properties;
-using static HaiFeng.ctp_quote;
+using CTP.Properties;
+using static CTP.ctp_quote;
 
 namespace CTP
 {
@@ -95,7 +95,7 @@ namespace CTP
 				f.LowestPrice = f.BidPrice1;
 			}
 
-			HaiFeng.MarketData tick = DicTick.GetOrAdd(f.InstrumentID, new HaiFeng.MarketData
+			CTP.MarketData tick = DicTick.GetOrAdd(f.InstrumentID, new CTP.MarketData
 			{
 				InstrumentID = f.InstrumentID,
 			});

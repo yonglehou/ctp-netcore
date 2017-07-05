@@ -1,0 +1,11 @@
+/Users/charles/ctp/ctpnetcore/ctptest/bin/Debug/netcoreapp2.0/ctptest.deps.json
+/Users/charles/ctp/ctpnetcore/ctptest/bin/Debug/netcoreapp2.0/ctptest.runtimeconfig.json
+/Users/charles/ctp/ctpnetcore/ctptest/bin/Debug/netcoreapp2.0/ctptest.runtimeconfig.dev.json
+/Users/charles/ctp/ctpnetcore/ctptest/bin/Debug/netcoreapp2.0/ctptest.dll
+/Users/charles/ctp/ctpnetcore/ctptest/bin/Debug/netcoreapp2.0/ctpnetcore.dll
+/Users/charles/ctp/ctpnetcore/ctptest/obj/Debug/netcoreapp2.0/ctptest.csproj.CoreCompileInputs.cache
+/Users/charles/ctp/ctpnetcore/ctptest/obj/Debug/netcoreapp2.0/ctptest.AssemblyInfoInputs.cache
+/Users/charles/ctp/ctpnetcore/ctptest/obj/Debug/netcoreapp2.0/ctptest.AssemblyInfo.cs
+/Users/charles/ctp/ctpnetcore/ctptest/obj/Debug/netcoreapp2.0/ctptest.dll
+/Users/charles/ctp/ctpnetcore/ctptest/obj/Debug/netcoreapp2.0/ctptest.pdb
+/Users/charles/ctp/ctpnetcore/ctptest/bin/Debug/netcoreapp2.0/ctptest.pdb

@@ -1,0 +1,10 @@
+﻿<Properties StartupConfiguration="{45DB846C-A042-45D9-892F-50D90022E925}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ctptest PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
