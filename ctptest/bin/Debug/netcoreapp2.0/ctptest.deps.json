@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.0",
-    "signature": "7946b4b7cc82b92b5da8602d1cf6874a55b68b8d"
+    "signature": "ff422470f9a29ddc62cd23614fb99a61e28e3a08"
   },
   "compilationOptions": {},
   "targets": {
@@ -36,7 +36,6 @@
           "System.Runtime": "4.3.0"
         }
       },
-      "System.ComponentModel.Annotations/4.4.0-preview2-25405-01": {},
       "System.ComponentModel.Primitives/4.3.0": {
         "dependencies": {
           "System.ComponentModel": "4.3.0",
@@ -147,7 +146,6 @@
           "System.Collections": "4.3.0",
           "System.Collections.NonGeneric": "4.3.0",
           "System.ComponentModel": "4.3.0",
-          "System.ComponentModel.Annotations": "4.4.0-preview2-25405-01",
           "System.ComponentModel.Primitives": "4.3.0",
           "System.Reflection": "4.3.0",
           "System.Reflection.Extensions": "4.3.0",
@@ -195,13 +193,6 @@
       "sha512": "sha512-ss44j/qJQkr8PId7yjFQkLcKGve02OGtyL6Sh4L5V2wasFdCy0HJKd7mjUNKaKTYLKr8zv799liKRBeND1fNEA==",
       "path": "system.componentmodel/4.3.0",
       "hashPath": "system.componentmodel.4.3.0.nupkg.sha512"
-    },
-    "System.ComponentModel.Annotations/4.4.0-preview2-25405-01": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-aIIzm/kCvIyHhsoK2NqeZKul6m71GP2ZEQ5Nedb045lNye4s8lb1G/ZgHztQADjvVUd9BUBgTLf88xB/ps433Q==",
-      "path": "system.componentmodel.annotations/4.4.0-preview2-25405-01",
-      "hashPath": "system.componentmodel.annotations.4.4.0-preview2-25405-01.nupkg.sha512"
     },
     "System.ComponentModel.Primitives/4.3.0": {
       "type": "package",

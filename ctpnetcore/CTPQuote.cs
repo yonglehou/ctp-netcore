@@ -5,7 +5,6 @@ using System.Linq;
 using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
-using CTP.Properties;
 using static CTP.ctp_quote;
 
 namespace CTP
@@ -17,16 +16,16 @@ namespace CTP
 
 		public CTPQuote()
 		{
-			Directory.CreateDirectory("ctp_dll");
-			string[] files = { "ctp_dll\\thostmduserapi.dll", "ctp_dll\\ctp_quote.dll" };
-			object[] objs = { Resources.thostmduserapi, Resources.ctp_quote };
-
-			for (int i = 0; i < files.Length; ++i)
-			{
-				var bytes = (byte[])objs[i];
-				if (!File.Exists(files[i]) || bytes.Length != new FileInfo(files[i]).Length)
-					File.WriteAllBytes(files[i], bytes);
-			}
+//			Directory.CreateDirectory("ctp_dll");
+//			string[] files = { "ctp_dll\\thostmduserapi.dll", "ctp_dll\\ctp_quote.dll" };
+//			object[] objs = { Resources.thostmduserapi, Resources.ctp_quote };
+//
+//			for (int i = 0; i < files.Length; ++i)
+//			{
+//				var bytes = (byte[])objs[i];
+//				if (!File.Exists(files[i]) || bytes.Length != new FileInfo(files[i]).Length)
+//					File.WriteAllBytes(files[i], bytes);
+//			}
 			_q = new ctp_quote("./ctp_dll/ctp_quote.dll");
 			SetCallBack();
 		}
