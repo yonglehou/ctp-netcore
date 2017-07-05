@@ -2,23 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba4a5e31-27ae-4916-a8dc-1b7f85bf9eeb" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ctpnetcore/Properties/Resources.Designer.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ctpnetcore/Properties/Resources.resx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ctpnetcore/Resources/ctp_dll/ctp_quote.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ctpnetcore/Resources/ctp_dll/ctp_trade.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ctpnetcore/Resources/ctp_dll/thostmduserapi.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ctpnetcore/Resources/ctp_dll/thosttraderapi.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ctpnetcore/bin/Debug/netstandard2.0/obj/Debug/netstandard2.0/ctpnetcore.pdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ctpnetcore/bin/Debug/netstandard2.0/Properties/Resources.resx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ctpnetcore/bin/Debug/netstandard2.0/Resources/ctp_dll/ctp_quote.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ctpnetcore/bin/Debug/netstandard2.0/ctpnetcore.pdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ctpnetcore/obj/Debug/netstandard2.0/ctpnetcore.Properties.Resources.resources" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ctptest/bin/Debug/netcoreapp2.0/Properties/Resources.resx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ctptest/bin/Debug/netcoreapp2.0/Resources/ctp_dll/ctp_quote.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ctptest/bin/Debug/netcoreapp2.0/ctpnetcore.pdb" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ctpnetcore/bin/Debug/netstandard2.0/ctpnetcore.dll" afterPath="$PROJECT_DIR$/ctpnetcore/bin/Debug/netstandard2.0/ctpnetcore.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ctpnetcore/obj/Debug/netstandard2.0/ctpnetcore.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/ctpnetcore/obj/Debug/netstandard2.0/ctpnetcore.csproj.CoreCompileInputs.cache" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ctpnetcore/obj/Debug/netstandard2.0/ctpnetcore.dll" afterPath="$PROJECT_DIR$/ctpnetcore/obj/Debug/netstandard2.0/ctpnetcore.dll" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ctpnetcore/obj/Debug/netstandard2.0/ctpnetcore.pdb" afterPath="$PROJECT_DIR$/ctpnetcore/obj/Debug/netstandard2.0/ctpnetcore.pdb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ctptest/bin/Debug/netcoreapp2.0/ctpnetcore.dll" afterPath="$PROJECT_DIR$/ctptest/bin/Debug/netcoreapp2.0/ctpnetcore.dll" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.ctpnetcore/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.ctpnetcore/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ctpnetcore/CTPQuote.cs" afterPath="$PROJECT_DIR$/ctpnetcore/CTPQuote.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ctpnetcore/CTPTrade.cs" afterPath="$PROJECT_DIR$/ctpnetcore/CTPTrade.cs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ctpnetcore/ctpnetcore.csproj" afterPath="$PROJECT_DIR$/ctpnetcore/ctpnetcore.csproj" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ctpnetcore/obj/Debug/netstandard2.0/ctpnetcore.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/ctpnetcore/obj/Debug/netstandard2.0/ctpnetcore.csproj.FileListAbsolute.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ctptest/bin/Debug/netcoreapp2.0/ctptest.deps.json" afterPath="$PROJECT_DIR$/ctptest/bin/Debug/netcoreapp2.0/ctptest.deps.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ctptest/obj/Debug/netcoreapp2.0/ctptest.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/ctptest/obj/Debug/netcoreapp2.0/ctptest.csproj.FileListAbsolute.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -103,20 +101,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="ctpnetcore (2 projects)" />
-              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" />
-              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ctpnetcore (2 projects)" />
-              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ctpnetcore" />
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
           </PATH>
@@ -249,12 +233,12 @@
       <workItem from="1499074385938" duration="1819000" />
       <workItem from="1499142804851" duration="2958000" />
       <workItem from="1499238792812" duration="3656000" />
-      <workItem from="1499244083398" duration="667000" />
+      <workItem from="1499244083398" duration="817000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9100000" />
+    <option name="totallyTimeSpent" value="9250000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -274,9 +258,9 @@
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.62830484" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5474339" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5676516" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.58475894" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281493" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />

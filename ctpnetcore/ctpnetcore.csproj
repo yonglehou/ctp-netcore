@@ -19,23 +19,17 @@
     <PackageReference Include="System.Threading.Thread" Version="4.3.0" />
   </ItemGroup>
   <ItemGroup>
-    <None Remove="Resources\ctp_dll\ctp_quote.dll" />
-    <None Remove="Resources\ctp_dll\ctp_trade.dll" />
-    <None Remove="Resources\ctp_dll\thostmduserapi.dll" />
-    <None Remove="Resources\ctp_dll\thosttraderapi.dll" />
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="Resources\ctp_dll\ctp_quote.dll">
+    <EmbeddedResource Include="ctp_dll\ctp_quote.dll">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <LogicalName>ctp_quote</LogicalName>
     </EmbeddedResource>
-    <EmbeddedResource Include="Resources\ctp_dll\ctp_trade.dll">
+    <EmbeddedResource Include="ctp_dll\ctp_trade.dll">
       <LogicalName>ctp_trade</LogicalName>
     </EmbeddedResource>
-    <EmbeddedResource Include="Resources\ctp_dll\thostmduserapi.dll">
+    <EmbeddedResource Include="ctp_dll\thostmduserapi.dll">
       <LogicalName>thostmduserapi</LogicalName>
     </EmbeddedResource>
-    <EmbeddedResource Include="Resources\ctp_dll\thosttraderapi.dll">
+    <EmbeddedResource Include="ctp_dll\thosttraderapi.dll">
       <LogicalName>thosttraderapi</LogicalName>
     </EmbeddedResource>
   </ItemGroup>
