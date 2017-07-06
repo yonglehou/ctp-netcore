@@ -1,12 +1,13 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>netstandard1.6</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
     <Folder Include="ctp_dll" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="NETStandard.Library" Version="2.0.0-preview2-25401-01" />
+    <PackageReference Include="NativeLibraryLoader" Version="1.0.1" />
+    <PackageReference Include="NETStandard.Library" Version="1.6" />
     <PackageReference Include="System.Collections" Version="4.3.0" />
     <PackageReference Include="System.Collections.NonGeneric" Version="4.3.0" />
     <PackageReference Include="System.ComponentModel" Version="4.3.0" />
@@ -24,15 +25,15 @@
       <LogicalName>ctp_quote</LogicalName>
     </EmbeddedResource>
     <EmbeddedResource Include="ctp_dll\ctp_trade.dll">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>    
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <LogicalName>ctp_trade</LogicalName>
     </EmbeddedResource>
     <EmbeddedResource Include="ctp_dll\thostmduserapi.dll">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>    
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <LogicalName>thostmduserapi</LogicalName>
     </EmbeddedResource>
     <EmbeddedResource Include="ctp_dll\thosttraderapi.dll">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>    
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <LogicalName>thosttraderapi</LogicalName>
     </EmbeddedResource>
   </ItemGroup>

@@ -1,9 +1,5 @@
 ﻿<Properties StartupConfiguration="{0ACEB428-C420-4AF7-9D2B-5FD49BCCEE6B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ctpnetcore/CTPTrade.cs">
-    <Files>
-      <File FileName="ctpnetcore/CTPTrade.cs" Line="10" Column="30" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
